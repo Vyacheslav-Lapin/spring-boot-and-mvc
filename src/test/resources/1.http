@@ -1,0 +1,4 @@
+GET http://localhost:8080/cats/17774c82-5025-4e07-9f14-e5c46cd20019
+Accept: application/json
+
+###

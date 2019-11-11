@@ -98,26 +98,26 @@
       </dependency>
       <!--endregion-->
       <!--region Swagger-->
-      <dependency>
-        <groupId>io.springfox</groupId>
-        <artifactId>springfox-swagger2</artifactId>
-        <version>${springfox-swagger.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>io.springfox.ui</groupId>
-        <artifactId>springfox-swagger-ui-rfc6570</artifactId>
-        <version>${springfox-swagger-ui-rfc6570.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>io.springfox</groupId>
-        <artifactId>springfox-data-rest</artifactId>
-        <version>${springfox-swagger.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>io.springfox</groupId>
-        <artifactId>springfox-bean-validators</artifactId>
-        <version>${springfox-swagger.version}</version>
-      </dependency>
+      <!--<dependency>-->
+      <!--  <groupId>io.springfox</groupId>-->
+      <!--  <artifactId>springfox-swagger2</artifactId>-->
+      <!--  <version>${springfox-swagger.version}</version>-->
+      <!--</dependency>-->
+      <!--<dependency>-->
+      <!--  <groupId>io.springfox.ui</groupId>-->
+      <!--  <artifactId>springfox-swagger-ui-rfc6570</artifactId>-->
+      <!--  <version>${springfox-swagger-ui-rfc6570.version}</version>-->
+      <!--</dependency>-->
+      <!--<dependency>-->
+      <!--  <groupId>io.springfox</groupId>-->
+      <!--  <artifactId>springfox-data-rest</artifactId>-->
+      <!--  <version>${springfox-swagger.version}</version>-->
+      <!--</dependency>-->
+      <!--<dependency>-->
+      <!--  <groupId>io.springfox</groupId>-->
+      <!--  <artifactId>springfox-bean-validators</artifactId>-->
+      <!--  <version>${springfox-swagger.version}</version>-->
+      <!--</dependency>-->
       <!--endregion-->
       <!--region Test dependency management-->
       <dependency>
@@ -209,22 +209,22 @@
     </dependency>
     <!--endregion-->
     <!--region Swagger-->
-    <dependency>
-      <groupId>io.springfox</groupId>
-      <artifactId>springfox-swagger2</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.springfox.ui</groupId>
-      <artifactId>springfox-swagger-ui-rfc6570</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.springfox</groupId>
-      <artifactId>springfox-data-rest</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.springfox</groupId>
-      <artifactId>springfox-bean-validators</artifactId>
-    </dependency>
+    <!--<dependency>-->
+    <!--  <groupId>io.springfox</groupId>-->
+    <!--  <artifactId>springfox-swagger2</artifactId>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+    <!--  <groupId>io.springfox.ui</groupId>-->
+    <!--  <artifactId>springfox-swagger-ui-rfc6570</artifactId>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+    <!--  <groupId>io.springfox</groupId>-->
+    <!--  <artifactId>springfox-data-rest</artifactId>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+    <!--  <groupId>io.springfox</groupId>-->
+    <!--  <artifactId>springfox-bean-validators</artifactId>-->
+    <!--</dependency>-->
     <!--endregion-->
     <dependency>
       <groupId>org.springframework.cloud</groupId>
